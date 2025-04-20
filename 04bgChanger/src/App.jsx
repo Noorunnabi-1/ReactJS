@@ -24,16 +24,15 @@ function App() {
               className=" outline-none px-4 py-1 rounded-full text-white shadow-lg " style={{ backgroundColor: "orange" }}>orange</button>
             <button
               onClick={() => setColor("indigo")}
-
               className="outline-none px-4 py-1 rounded-full text-white shadow-lg " style={{ backgroundColor: "indigo" }}>Indigo</button>
             <button
               onClick={() => setColor("Aqua")}
 
               className="outline-none px-4 py-1 rounded-full text-white shadow-lg " style={{ backgroundColor: "aqua" }}>Aqua</button>
             <button
-              onClick={() => setColor("purpel")}
+              onClick={() => setColor("white")}
 
-              className="outline-none px-4 py-1 rounded-full text-white shadow-lg " style={{ backgroundColor: "purpel" }}>Purpel</button>
+              className="outline-none px-4 py-1 rounded-full text-black shadow-lg " style={{ backgroundColor: "white" }}>white</button>
             <button
               onClick={() => setColor("yellow")}
 
